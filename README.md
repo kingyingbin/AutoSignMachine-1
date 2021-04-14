@@ -54,7 +54,7 @@ UNICOM_APPID = 'xxxxxx' # 将 xxxxxx 替换为上面获取的 appid
 * **每天自动直播签到，领取奖励**
 * **每天自动使用直播中心银瓜子兑换B币**
 * **每个月自动领取5张B币券和大会员权益**
-
+******
 ```sh
 node index.js bilibili --cookies "b6*********4a581;"
 ```
